@@ -1,5 +1,5 @@
 <div align="center">
-✦ YOUR NAME
+✦ MSGRC  
 Data & Analytics · Python · Cybersecurity · Digital Builder
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D4FF,100:FF4ECD&height=380&section=header&text=BUILD%20THE%20FUTURE&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=7000&pause=3000&color=7DF9FF&center=true&vCenter=true&width=1200&height=100&lines=Turning+complex+problems+into+clear+solutions.;Combining+data%2C+technology+%26+strategy.;Building+smarter+ways+to+work.;Always+learning.+Always+building." />
 
