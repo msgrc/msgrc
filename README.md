@@ -1,5 +1,9 @@
 <div align="center">
-✦ MSGRC  
+       <br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=4000&pause=1500&color=BF5FFF&center=true&vCenter=true&width=1200&height=100&lines=WELCOM!E!Stay!+Explore!&cursor=true&cursorStyle=underscore" />
+  
+       
+✦ MSGRC ✦ 
 Data & Analytics · Python · Cybersecurity · Operations
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00D4FF,100:FF4ECD&height=380&section=header&text=BUILD%20THE%20FUTURE&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=7000&pause=3000&color=7DF9FF&center=true&vCenter=true&width=1200&height=100&lines=Turning+complex+problems+into+clear+solutions.;Combining+data%2C+technology+%26+strategy.;Building+smarter+ways+to+work.;Always+learning.+Always+building." />
 
@@ -11,49 +15,53 @@ Data & Analytics · Python · Cybersecurity · Operations
 
 <a href="mailto:msgrc@atomicmail.io"> <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FF4ECD"/> </a> <a href="https://an-alicestudio.streamlit.app"> <img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=7DF9FF"/> </a> </div>
 <div align="center">
-◈ IDENTITY
-<br> <table> <tr> <td width="58%" valign="top">
-    Welcome! Stay & Explore...
-I am an operations and relationship professional who is taking reigns in understanding Python, data analytics and cybersecurity.
-
-
-
-With 15+ years of experience working across international, high-stakes environments, I bring together:
-
-ANALYSIS × TECHNOLOGY × STAKEHOLDERS × STRATEGY
-
-Translating complex situations into structured decisions, efficient processes and practical solutions.
-
-Now I'm applying that mindset to technology — building tools, analysing data, automating workflows and exploring cybersecurity.
-
 <br>
+ 
+
 ╭─────────────────────────────────────────╮
 │                                        │
-│   CURRENT STATE                       │
+│   PROJECT MANAGER                       │
 │   
-│   STATUS  ● ⚡ ALWAYS LEARNING  ⚡           │
-│                                         │
+│   <img src="https://skillicons.dev/icons?i=python,linux,git,streamlit&theme=dark&perline=3"/>│   <img src="https://skillicons.dev/icons?i=css,vscode,linux&theme=dark&perline=3"/> 
+ ● ⚡ LOGISTICS OPERATIONS  ⚡           │
+                                      │
 ╰─────────────────────────────────────────╯
 
-</td> <td width="42%" align="center">
-✦ 
-<br> <img src="https://skillicons.dev/icons?i=python,css,sqlite,numpy,pandas,vscode&theme=dark&perline=3"/>
+╭─────────────<img src="https://skillicons.dev/icons?i=npm,github,sqlite&theme=dark&perline=3"/>
+──────────────╮
+│                                        │
+│   PRODUCT STRATEGIST                     │
+│   
+│   ●●● <img src="https://img.shields.io/badge/JOHN%20THE%20RIPPER-6A0DAD?style=plastic&logo=kali-linux&logoColor=FFFFFF" height="40"/>●●●
+⚡ CYBERSECURITY  ⚡ <img src="https://img.shields.io/badge/TRYHACKME-161B22?style=social&logo=tryhackme&logoColor=FF4ECD"/>          │
+│      <img src="https://skillicons.dev/icons?i=wireshark,&theme=dark&perline=3"/>
+                                   │
+╰─────────────────────────────────────────╯
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,50:00D4FF,100:6C63FF&height=5&section=footer"/>
+
+<br> <table> <tr> <td width="58%" valign="top">
+
+With 15+ years of experience across international, high-stakes environments, I bring a strong foundation in operations, relationship management, and complex problem-solving.
+
+Driven by an unquenchable curiosity for learning, I’ve taken my journey beyond operations and into Cybersecurity, Python, and Data Analytics—exploring where business, technology, and innovation intersect.
+
+You’ve been there, right? Sitting in a technical meeting, understanding the business side, but struggling to follow the technical conversation—or sitting on the technical side, understanding the technology,
+but not always seeing the business context behind it.
+
+Gone are those days!
+
+Today, I see the bigger picture. I connect business needs with technical realities, helping bridge the gap between the two and turn complex challenges into clearer, more practical, technology-driven solutions.
+
+Inviting ANALYSIS × TECHNOLOGY × STAKEHOLDERS × STRATEGY to engage in beneficial solutions,
+<br>
+Alice (MSGRC)
 
 
 
-<img src="https://skillicons.dev/icons?i=linux,git,streamlit,github,npm&theme=dark&perline=3"/>
+<br>
 
 
 
-<img src="https://skillicons.dev/icons?i=wireshark&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JOHN%20THE%20RIPPER-161B22?style=plastic&logo=kali-linux&logoColor=7DF9FF"/> 
-<br> 
-<img src="https://img.shields.io/badge/TRYHACKME-161B22?style=social&logo=tryhackme&logoColor=FF4ECD"/>
-
-<br><br>
 
 
 </td> </tr> </table> <br> </div>
@@ -202,22 +210,20 @@ RUSSIAN
 
 </td> </tr> </table> </div>
 <div align="center">
-<font color="#7DF9FF">◇ LEARNING // NEXT</font>
+<font color="#7DF9FF">◇ CURRENTLY IN PURSUIT // NEXT CHAPTER>/font>
 <br>
               ┌─────────────────────────────────┐
               │                                 │
-              │   GSEC                          │
+              │   GIAC Security Essentials (GSEC)                       │
               │   ────────────────────────  →   │
               │   Cybersecurity Certification   │
               │                                 │
-              │   PYTHON                        │
+              │                         │
               │   ────────────────────────  →   │
-              │   OOP • NumPy • Pandas          │
-              │   App Development               │
-              │                                 │
-              │   SECURITY                      │
+              │                │
+              │                        │
               │   ────────────────────────  →   │
-              │   Practical Cybersecurity       │
+              │          │
 
 
 <br>
