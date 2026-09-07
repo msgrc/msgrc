@@ -160,12 +160,21 @@ by meaningful insight.
 </table>
 
 <br>
-⚡ Make it work.
-🎨 Make it beautiful.
-🚀 Make it matter.
-</div>
 <div align="center">
-💎 FEATURED WORK
+
+
+
+<br>
+
+⋆｡°✩ ─────────────── ✩°｡⋆
+
+💎 FEATURED WORK 💎
+
+⋆｡°✩ ─────────────── ✩°｡⋆
+
+
+💎✧･ﾟ: ✧･ﾟ:.Make it work.:･ﾟ✧:･ﾟ✧.Make it beautiful.✧･ﾟ: ✧･ﾟ:.Make it matter.✧･ﾟ: ✧･ﾟ:💎
+</div>
 </div> <table> <tr> <td width="50%" valign="top"> <h3 align="center">🌌 Analice Studio</h3> <p align="center"> A data-focused application transforming complex information into clear, interactive insights. </p> <p align="center">
 
 <code>Python</code> · <code>Pandas</code> · <code>Streamlit</code>
@@ -210,7 +219,7 @@ RUSSIAN
 
 </td> </tr> </table> </div>
 <div align="center">
-<font color="#7DF9FF">◇ CURRENTLY IN PURSUIT // NEXT CHAPTER>/font>
+<font color="#7DF9FF">◇ CURRENTLY IN PURSUIT // NEXT CHAPTER ◇
 <br>
               ┌─────────────────────────────────┐
               │                                 │
