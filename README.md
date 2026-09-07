@@ -37,11 +37,12 @@ Data & Analytics · Python · Cybersecurity · Operations
 │      <img src="https://skillicons.dev/icons?i=wireshark,&theme=dark&perline=3"/>
                                    │
 ╰─────────────────────────────────────────╯
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,50:00D4FF,100:6C63FF&height=5&section=footer"/>
 
-<br> <table> <tr> <td width="58%" valign="top">
 
-With 15+ years of experience across international, high-stakes environments, I bring a strong foundation in operations, relationship management, and complex problem-solving.
+</div> <br> <table> <tr> <td width="8%" valign="top"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,50:00D4FF,100:6C63FF&width=15&height=7000"/> </td> <td width="92%" valign="top"
+
+
+ <br>With 15+ years of experience across international, high-stakes environments, I bring a strong foundation in operations, relationship management, and complex problem-solving.
 
 Driven by an unquenchable curiosity for learning, I’ve taken my journey beyond operations and into Cybersecurity, Python, and Data Analytics—exploring where business, technology, and innovation intersect.
 
