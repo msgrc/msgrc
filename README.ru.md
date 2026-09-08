@@ -45,7 +45,7 @@
 │ │
 ╰─────────────────────────────────────────╯
 
-</div> <br> <table> <tr> <td width="8%" valign="top"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,50:00D4FF,100:6C63FF&width=15&height=10500"/> </td> <td width="92%" valign="top"> <br>
+</div> <br> <table> <tr> <td width="8%" valign="top"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,50:00D4FF,100:6C63FF&width=15&height=8500"/> </td> <td width="92%" valign="top"> <br>
 
 Более 15 лет я работаю в международных и ответственных сферах деятельности, где сформировал прочную основу в области операционного управления, управления отношениями и решения сложных задач.
 
