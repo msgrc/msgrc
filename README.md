@@ -39,7 +39,7 @@ Data & Analytics · Python · Cybersecurity · Operations
 ╰─────────────────────────────────────────╯
 
 
-</div> <br> <table> <tr> <td width="8%" valign="top"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,50:00D4FF,100:6C63FF&width=15&height=7000"/> </td> <td width="92%" valign="top"
+</div> <br> <table> <tr> <td width="8%" valign="top"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,50:00D4FF,100:6C63FF&width=15&height=7100"/> </td> <td width="92%" valign="top"
 
 
  <br>With 15+ years of experience across international, high-stakes environments, I bring a strong foundation in operations, relationship management, and complex problem-solving.
@@ -202,21 +202,13 @@ by meaningful insight.
 
 </p> <p align="center"> <a href="https://msgrc.github.io/portfolio/"> <img src="https://img.shields.io/badge/EXPLORE-FF4ECD?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> </tr> </table>
 <div align="center">
-◇ LANGUAGES
-<br> <table> <tr> <td align="center" width="33%">
-🇬🇧
-
-ENGLISH
-
-</td> <td align="center" width="33%">
-🇩🇪
-
-GERMAN
-
-</td> <td align="center" width="33%">
-🇷🇺
-
-RUSSIAN
+<br>
+◇ LANGUAGES◇
+<br><br>
+ <table> <tr> <td align="center" width="33%"> <a href="README.md"> <img src="https://img.shields.io/badge/🇬🇧%20ENGLISH-7C3AED?style=for-the-badge" alt="English"/> </a> 
+ </td> <td align="center" width="33%"> <a href="README.de.md"> <img src="https://img.shields.io/badge/🇩🇪%20GERMAN-555?style=for-the-badge" alt="German"/> </a> 
+ </td> <td align="center" width="33%"> <a href="README.ru.md"> <img src="https://img.shields.io/badge/🇷🇺%20RUSSIAN-555?style=for-the-badge" alt="Russian"/> </a> 
+ </td> </tr> </table> </div> <br> <div align="center"> <font color="#7DF9FF">
 
 </td> </tr> </table> </div>
 <div align="center">
