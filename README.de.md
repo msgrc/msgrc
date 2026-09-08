@@ -36,7 +36,7 @@ Datenanalyse · Python · Cybersicherheit · Operations
                                    │
 ╰─────────────────────────────────────────╯
 
-</div> <br> <table> <tr> <td width="8%" valign="top"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,50:00D4FF,100:6C63FF&width=15&height=7000"/> </td> <td width="92%" valign="top"> <br>
+</div> <br> <table> <tr> <td width="8%" valign="top"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4ECD,50:00D4FF,100:6C63FF&width=15&height=8500"/> </td> <td width="92%" valign="top"> <br>
 
 Mit über 15 Jahren Erfahrung in internationalen und anspruchsvollen Umfeldern bringe ich eine solide Grundlage in den Bereichen Operations, Beziehungsmanagement und komplexe Problemlösung mit.
 
@@ -112,7 +112,18 @@ Daten → Entscheidungen
 <br>
 ◇ SPRACHEN ◇ 
 <br><br>
-<div align="center"> <a href="README.md"> <img src="https://img.shields.io/badge/🇬🇧%20ENGLISH-7DF9FF?style=for-the-badge&labelColor=0D1117&color=7DF9FF" alt="English"> </a> <a href="README.de.md"> <img src="https://img.shields.io/badge/🇩🇪%20DEUTSCH-7DF9FF?style=for-the-badge&labelColor=0D1117&color=7DF9FF" alt="Deutsch"> </a> <a href="README.ru.md"> <img src="https://img.shields.io/badge/🇷🇺%20RUSSIAN-7DF9FF?style=for-the-badge&labelColor=0D1117&color=7DF9FF" alt="Russian"> </a> </div>
+<div align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/🇬🇧%20ENGLISCH-808080?style=for-the-badge&labelColor=0D1117&color=808080" alt="Englisch">
+  </a>
+  <a href="README.de.md">
+    <img src="https://img.shields.io/badge/🇩🇪%20DEUTSCH-7DF9FF?style=for-the-badge&labelColor=0D1117&color=7DF9FF" alt="Deutsch">
+  </a>
+  <a href="README.ru.md">
+    <img src="https://img.shields.io/badge/🇷🇺%20RUSSISCH-808080?style=for-the-badge&labelColor=0D1117&color=808080" alt="Russisch">
+  </a>
+</div>
+
 
 <br><br>
 ◇ DERZEIT IN VORBEREITUNG // NÄCHSTES KAPITEL ◇
