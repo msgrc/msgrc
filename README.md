@@ -184,11 +184,11 @@ by meaningful insight.
 
 <code>Python</code> · <code>Hashing</code> · <code>Data Structures</code>
 
-</p> <p align="center"> <a href="https://github.com/msgrc/librarymanagement)"> <img src="https://img.shields.io/badge/EXPLORE-FF4ECD?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">📚 Library Management System</h3> <p align="center"> An object-oriented system for managing books, members and library operations. </p> <p align="center">
+</p> <p align="center"> <a href="https://msgrc.github.io/portfolio/"> <img src="https://img.shields.io/badge/EXPLORE-FF4ECD?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">📚 Library Management System</h3> <p align="center"> An object-oriented system for managing books, members and library operations. </p> <p align="center">
 
 <code>Python</code> · <code>OOP</code>
 
-</p> <p align="center"> <a href="https://msgrc.github.io/portfolio/"> <img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> <td width="50%" valign="top"> <h3 align="center">🎓 Student Management System</h3> <p align="center"> A Python application for managing student records, information and administrative workflows. </p> <p align="center">
+</p> <p align="center"> <a href="https://github.com/msgrc/librarymanagement"> <img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> <td width="50%" valign="top"> <h3 align="center">🎓 Student Management System</h3> <p align="center"> A Python application for managing student records, information and administrative workflows. </p> <p align="center">
 
 <code>Python</code> · <code>OOP</code> · <code>Data Management</code>
 
