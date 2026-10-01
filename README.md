@@ -176,7 +176,7 @@ by meaningful insight.
 
 💎✧･ﾟ: ✧･ﾟ:.Make it work.:･ﾟ✧:･ﾟ✧.Make it beautiful.✧･ﾟ: ✧･ﾟ:.Make it matter.✧･ﾟ: ✧･ﾟ:💎
 </div>
-</div> <table> <tr> <td width="50%" valign="top"> <h3 align="center">🌌 Analice Studio</h3> <p align="center"> A data-focused application transforming complex information into clear, interactive insights. </p> <p align="center">
+</div> <table> <tr> <td width="50%" valign="top"> <h3 align="center">🧬 Analice Multi-File Studio</h3> <p align="center"> A data-focused application transforming complex information into clear, interactive insights. </p> <p align="center">
 
 <code>Python</code> · <code>Pandas</code> · <code>Streamlit</code>
 
@@ -188,11 +188,11 @@ by meaningful insight.
 
 <code>Python</code> · <code>OOP</code>
 
-</p> <p align="center"> <a href="https://github.com/msgrc/librarymanagement"> <img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> <td width="50%" valign="top"> <h3 align="center">🎓 Student Management System</h3> <p align="center"> A Python application for managing student records, information and administrative workflows. </p> <p align="center">
+</p> <p align="center"> <a href="https://github.com/msgrc/librarymanagement"> <img src="https://img.shields.io/badge/EXPLORE-7C3AED?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> <td width="50%" valign="top"> <h3 align="center">🧬 Analice Timestudio</h3> <p align="center"> A Streamlit-based timesheet and billing analytics tool for analyzing working hours, tickets, projects, durations, and client billing.
 
-<code>Python</code> · <code>OOP</code> · <code>Data Management</code>
+<code>Python</code> · <code>Data Analytics</code> · <code>Data Management</code> · <code>Data Cleaning</code>
 
-</p> <p align="center"> <a href="https://msgrc.github.io/portfolio/"> <img src="https://img.shields.io/badge/EXPLORE-00D4FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">📝 Logging System</h3> <p align="center"> A Python logging implementation focused on structured application events, monitoring and debugging. </p> <p align="center">
+</p> <p align="center"> <a href="https://timesheetstudio.streamlit.app/"> <img src="https://img.shields.io/badge/EXPLORE-00D4FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">📝 Logging System</h3> <p align="center"> A Python logging implementation focused on structured application events, monitoring and debugging. </p> <p align="center">
 
 <code>Python</code> · <code>Logging</code>
 
