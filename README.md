@@ -200,7 +200,7 @@ by meaningful insight.
 
 <code>Python</code> · <code>OOP</code> · <code>Encapsulation</code>
 
-</p> <p align="center"> <a href="https://msgrc.github.io/portfolio/"> <img src="https://img.shields.io/badge/EXPLORE-FF4ECD?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> </tr> </table>
+</p> <p align="center"> <a href="https://accountsystem.streamlit.app/"> <img src="https://img.shields.io/badge/EXPLORE-FF4ECD?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> </tr> </table>
 <div align="center">
 <br>
 ◇ LANGUAGES◇
