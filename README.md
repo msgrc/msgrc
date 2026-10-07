@@ -199,7 +199,7 @@ by meaningful insight.
 
 <code>Python</code> · <code>Logging</code>
 
-</p> <p align="center"> <a href="https://msgrc.github.io/portfolio"> <img src="https://img.shields.io/badge/EXPLORE-6C63FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> <td width="50%" valign="top"> <h3 align="center">💳 Account Balance Management</h3> <p align="center"> A Python project demonstrating encapsulation, controlled data access and object-oriented design. </p> <p align="center">
+</p> <p align="center"> <a href="https://alibrary.streamlit.app/"> <img src="https://img.shields.io/badge/EXPLORE-6C63FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> <td width="50%" valign="top"> <h3 align="center">💳 Account Balance Management</h3> <p align="center"> A Python project demonstrating encapsulation, controlled data access and object-oriented design. </p> <p align="center">
 
 <code>Python</code> · <code>OOP</code> · <code>Encapsulation</code>
 
