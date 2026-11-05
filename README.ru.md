@@ -19,7 +19,7 @@
 
 <br><br>
 <p align="center">
-<a href="mailto:msgrc@atomicmail.io"> <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FF4ECD"/> </a> <a href="https://an-alicestudio.streamlit.app"> <img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=7DF9FF"/> </a> </div> <div align="center"> <br>
+<a href="mailto:msgrc@atomicmail.io"> <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FF4ECD"/> </a> <a href="https://studioalice.streamlit.app/"> <img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=vercel&logoColor=7DF9FF"/> </a> </div> <div align="center"> <br>
 
 ╭─────────────────────────────────────────╮
 │ │
