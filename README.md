@@ -180,7 +180,7 @@ by meaningful insight.
 
 <code>Python</code> · <code>Pandas</code> · <code>Streamlit</code>
 
-</p> <p align="center"> <a href="https://an-alicestudio.streamlit.app/"> <img src="https://img.shields.io/badge/EXPLORE-6C63FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> <td width="50%" valign="top"> <h3 align="center">🔐 Student Registry with Hash</h3> <p align="center"> A Python-based student registry exploring secure data handling and hashing concepts. </p> <p align="center">
+</p> <p align="center"> <a href="https://studioalice.streamlit.app/"> <img src="https://img.shields.io/badge/EXPLORE-6C63FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> </td> <td width="50%" valign="top"> <h3 align="center">🔐 Student Registry with Hash</h3> <p align="center"> A Python-based student registry exploring secure data handling and hashing concepts. </p> <p align="center">
 
 <code>Python</code> · <code>Hashing</code> · <code>Data Structures</code>
 
