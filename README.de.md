@@ -107,7 +107,7 @@ Daten → Entscheidungen
 
 💎✧･ﾟ: ✧･ﾟ:.Make it work.:･ﾟ✧:･ﾟ✧.Make it beautiful.✧･ﾟ: ✧･ﾟ:.Make it matter.✧･ﾟ: ✧･ﾟ:💎
 
-</div> <table> <tr> <td width="50%" valign="top"> <h3 align="center">🌌 Analice Studio</h3> <p align="center"> Eine datenorientierte Anwendung, die komplexe Informationen in klare und interaktive Erkenntnisse verwandelt. </p> <p align="center"> <code>Python</code> · <code>Pandas</code> · <code>Streamlit</code> </p> <p align="center"> <a href="https://an-alicestudio.streamlit.app/"> <img src="https://img.shields.io/badge/EXPLORE-6C63FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> 
+</div> <table> <tr> <td width="50%" valign="top"> <h3 align="center">🌌 Analice Studio</h3> <p align="center"> Eine datenorientierte Anwendung, die komplexe Informationen in klare und interaktive Erkenntnisse verwandelt. </p> <p align="center"> <code>Python</code> · <code>Pandas</code> · <code>Streamlit</code> </p> <p align="center"> <a href="https://studioalice.streamlit.app/"> <img src="https://img.shields.io/badge/EXPLORE-6C63FF?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> 
 
 
 </td> <td width="50%" valign="top"> <h3 align="center">🔐 Student Registry with Hash</h3> <p align="center"> Ein Python-basiertes Studentenregister zur Untersuchung sicherer Datenverarbeitung und von Hashing-Konzepten. </p> <p align="center"> <code>Python</code> · <code>Hashing</code> · <code>Data Structures</code> </p> <p align="center"> <a href="https://studentregistry.streamlit.app/"> <img src="https://img.shields.io/badge/EXPLORE-FF4ECD?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> 
